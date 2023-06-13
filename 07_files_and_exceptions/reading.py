@@ -22,3 +22,4 @@ for line in lines:
     print(line)
     
 # print(file_object.read()) # can't be read, because the file is arleady closed.
+
